@@ -18,7 +18,7 @@ Site feito para gastar um amigo que não arruma niguém.
 <br>
 
 <p align="center">
-  <img alt="Projeto Namorada" src=".github/SaveClip.App_103016505_911368969382294_6839774694113091942_n.jpg" width="100%">
+  <img alt="Projeto Namorada" src=".vscode/.github/SaveClip.App_103016505_911368969382294_6839774694113091942_n.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
